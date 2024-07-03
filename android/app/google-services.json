@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649937655035",
+    "project_id": "go-ride-cec42",
+    "storage_bucket": "go-ride-cec42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649937655035:android:634e78296d7d78bc35cc5e",
+        "android_client_info": {
+          "package_name": "com.innovation.goridecustomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Fsl7q7U2Go4qIcKMXI2Vjs27sRArUBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
